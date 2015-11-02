@@ -7,6 +7,7 @@ require 'sinatra'
 require 'rack/test'
 require 'webmock/rspec'
 
+
 # setup test environment
 set :environment, :test
 set :run, false
